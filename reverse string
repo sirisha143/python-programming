@@ -1,3 +1,0 @@
-z=raw_input()
-y=z[::-1]
-print(y)
