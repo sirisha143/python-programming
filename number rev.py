@@ -1,3 +1,3 @@
-w=int(input())
-z=w[::-1]
-print(z)
+k=int(input())
+j=k[::-1]
+print(j)
