@@ -1,2 +1,2 @@
-v=int(input())
-print(v+273)
+q=int(input())
+print(q+273)
