@@ -1,3 +1,3 @@
-k=int(input())
+k=input()
 j=k[::-1]
 print(j)
